@@ -1,6 +1,7 @@
 # Super Peach Sisters
 
 Welcome to the Super Peach Sisters Game! This is a recreation of the popular arcade game Super Mario Brothers built using object-oriented programming and inheritence techniques in C++. Here is a quick guide on how to set up and play the game.
+
 ---
 
 ## Game Description
